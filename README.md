@@ -190,3 +190,6 @@ This project analyzes traffic data from Bangalore to predict traffic volume, ave
 ## Contact
 
 This project demonstrates practical application of machine learning for urban traffic management and can be extended for other cities or transportation systems.
+Name: M Lalit Aditya
+Email: lalitadityam2004@gmail.com
+
